@@ -19,7 +19,8 @@ noun = input("Enter a noun: ")
 print("""This is a story about %s and %s. These two were madly in love.
 Everyday they would start %s eachother without thinking twice.
 However, one day the two lovers went
-inside a %s and was never to be seen agian.""" % (Name1, Name2, verb, noun))
+inside a %s and was never to be seen agian.
+The End. """ % (Name1, Name2, verb, noun))
 
 # Prompt the user to enter the madlibs (noun, adj, verb)
 
